@@ -1,0 +1,16 @@
+@@|music.youtube.com^$important
+@@|accounts.youtube.com^$important
+@@|img.youtube.com^$important
+@@|m.youtube.com^$important
+@@|music.youtube.com^$important
+@@|s2.youtube.com^$important
+@@|s.youtube.com^$important
+@@|tv.youtube.com^$important
+@@|www.youtube-nocookie.com^$important
+@@|www.youtube.com^$important
+@@|www.youtubekids.com^$important
+@@|youtube-dl.org^$important
+@@|youtube-nocookie.com^$important
+@@|youtube-ui.l.google.com^$important
+@@|youtube.com^$important
+@@|youtubei.googleapis.com^$important
